@@ -18,16 +18,16 @@ public class GitNew {
 		System.out.println("4");
 	}
 
-	public void test5() {
-		System.out.println("5");
+	public void test8() {
+		System.out.println("8");
 	}
 
-	public void test6() {
-		System.out.println("6");
+	public void test9() {
+		System.out.println("9");
 
 	}
 
-	public void test7() {
-		System.out.println("7");
+	public void test10() {
+		System.out.println("10");
 	}
 }
